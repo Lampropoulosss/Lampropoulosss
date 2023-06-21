@@ -1,6 +1,6 @@
 <div class="center">
 <h3 class="center">Hello 👋</h3>
-  <span class="center"><b>I'm John, a self taught Full Stack Web Developer. Keep reading to learn more about me.</b></span>
+  <span class="center"><b>I'm John, a self taught Full Stack Web Developer, currently learning C++. Keep reading to learn more about me.</b></span>
 <br>
 <h3 class="center">Experience and Tools 🛠️</h3>
 <a href="https://en.m.wikipedia.org/wiki/HTML"><img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"></a>
