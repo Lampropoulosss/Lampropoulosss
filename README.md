@@ -15,8 +15,6 @@
 <br>
 <a href="https://nodejs.org/en"><img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
 <br>
-<a href="https://en.wikipedia.org/wiki/Rust_(programming_language)"><img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?logo=rust&style=for-the-badge&logoColor=ffffff"></a>
-<br>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img alt="C" src="https://img.shields.io/badge/-C-00599C?logo=c&style=for-the-badge&logoColor=ffffff"></a>
 <br>
 <a href="https://reactjs.org/"><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" class="center"></a>
